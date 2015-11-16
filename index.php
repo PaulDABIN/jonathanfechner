@@ -35,11 +35,19 @@
 	réseaux sociaux">
 	<!-- END Open Graph-->
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="lib/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<header>
 		<div class="container topMargin">
+			<div class="row">
+				<div class="col-md-1">
+					<a href="#">
+					  	<span class="fa fa-facebook-square"></span>
+					</a>
+				</div>
+			</div>
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="col-md-3">

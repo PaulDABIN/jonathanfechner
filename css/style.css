@@ -1,0 +1,19 @@
+#containCarousel {
+  padding: 0; }
+
+.topMargin {
+  margin-top: 2%; }
+
+.navigationTitle {
+  margin: 1% 0%; }
+
+.carouselImg {
+  width: 100%; }
+
+.carousel-caption {
+  padding-bottom: 30%; }
+
+.footerContent {
+  /*border-top: 2px solid darkgrey;*/ }
+
+/*# sourceMappingURL=style.css.map */

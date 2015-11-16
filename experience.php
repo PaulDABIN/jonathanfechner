@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Jonathan Fechner - Compétences</title>
+	<title>Jonathan Fechner - Experience</title>
 
 	<!-- Dublin Core -->
 	<meta name="DC.title" content="Jonathan Fechner">

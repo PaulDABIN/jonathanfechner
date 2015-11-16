@@ -1,7 +1,13 @@
+#containCarousel {
+  padding: 0; }
+
 .topMargin {
   margin-top: 2%; }
 
 .navigationTitle {
-  margin-top: 1%; }
+  margin: 1% 0%; }
+
+.carouselImg {
+  width: 100%; }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,1 +1,3 @@
 put css here
+
+sass --watch style.scssstyle.css

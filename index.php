@@ -35,17 +35,23 @@
 	réseaux sociaux">
 	<!-- END Open Graph-->
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<header>
-		<div class="container">
+		<div class="container topMargin">
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
-					<h1>Jonathan Fechner</h1>
-					<h2>Consultant – Formateur T.I.C</h2>
+					<div class="col-md-3">
+						<a href="index.php"><img src="image/placeholder.png" class="img-responsive" alt="logo jonathan fechner" title="accueil"></a>
+					</div>
+					<div class="col-md-9">
+						<h1>Jonathan Fechner</h1>
+						<h2>Consultant – Formateur T.I.C</h2>
+					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row navigationTitle">
 				<div class="col-md-2 col-md-offset-1">
 					<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
 				</div>

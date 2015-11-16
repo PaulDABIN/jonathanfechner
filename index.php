@@ -85,15 +85,21 @@
 			    	<div class="item active">
 			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
 			      		<div class="carousel-caption">
-			        		<h2>ddddddd</h2>
-			        		<p>Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
+			        		<h2>aaaaaaaaaaaaa</h2>
+			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
+			      			<div class="col-md-4 col-md-offset-4">
+			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
+			      			</div>
 			      		</div>
 			    	</div>
 			    	<div class="item">
 			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
 			      		<div class="carousel-caption">
 			        		<h2>aaaaaaaaaaaaa</h2>
-			        		<p>Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
+			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
+			      			<div class="col-md-4 col-md-offset-4">
+			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
+			      			</div>
 			      		</div>
 			    	</div>
 			  	</div>

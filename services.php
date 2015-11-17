@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Jonathan Fechner - Compétences</title>
+	<meta charset="utf-8">
+	<title>Jonathan Fechner - Prestations</title>
 
 	<!-- Dublin Core -->
 	<meta name="DC.title" content="Jonathan Fechner">
@@ -34,15 +35,39 @@
 	<meta property="og:description" content="texte de description à afficher sur les
 	réseaux sociaux">
 	<!-- END Open Graph-->
-	<link rel="stylesheet" type="text/css" href="lib/boostrap/css/boostrap.min.css">
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style-competences.css">
 	
 </head>
 <body>
 	<header>
 		<?php
-			//require 'header.php';
+			require 'header.php';
 		?>
 	</header>
+	<main id="competences">
+		<div class="container-fluid title">
+			<div class="container">
+				<div class="row">
+					<div class="text-center"><h1>Prestations</h1></div>
+				</div>
+				<article class="competences-list">
+					<div class="col-sm-12">Gestion de projet</div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4"></div>
+				</article>
+			</div>
+		</div>
+	</main>
 	<footer>
 		<?php 
 			//require 'footer.php';
@@ -50,3 +75,23 @@
 	</footer>
 </body>
 </html>
+
+
+
+
+<!-- 
+				<ul>
+					<li>Gestion de Projets</li>
+					<li>Strategie Communications</li>
+					<li>Marketing Communications</li>
+					<li>Corporate Communications</li>
+					<li>CSS / HTML</li>
+					<li>Software Design</li>
+					<li>Internal Communications</li>
+					<li>Web Design</li>
+					<li>Graphic Design</li>
+					<li>SEO</li>
+					<li>3D Modeling</li>
+					<li>E-commerce</li>
+				</ul>
+ -->

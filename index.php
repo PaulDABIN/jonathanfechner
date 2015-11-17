@@ -40,7 +40,7 @@
 </head>
 <body>
 	<?php 
-	require 'header.php';
+	require '_header.php';
 	?>
 
 	<content>

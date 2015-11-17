@@ -2,7 +2,9 @@
 <html>
 <head>
 	<title>Jonathan Fechner - Consultant SEO</title>
-
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
 	<!-- Dublin Core -->
 	<meta name="DC.title" content="Jonathan Fechner">
 	<meta name="DC.creator" content="Jonathan Fechner">
@@ -34,7 +36,8 @@
 	<meta property="og:description" content="texte de description à afficher sur les
 	réseaux sociaux">
 	<!-- END Open Graph-->
-	<link rel="stylesheet" type="text/css" href="lib/boostrap/css/boostrap.min.css">
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style-seo.css">
 	
 </head>
 <body>
@@ -43,6 +46,58 @@
 			//require 'header.php';
 		?>
 	</header>
+    
+    
+    <div class="container">
+        
+        <div class="col-md-8 col-md-offset-2">
+                       
+            <div class="row">
+                   
+                <h1>Consultant SEO, mais encore?</h1>
+                 
+                <div class="infos">
+                        
+                   <h2>Qu'est-ce que le SEO?</h2>
+                    
+                    <p>
+                        Le SEO, search engine optimization, est le fait d'optimiser le contenu d'un site internet dans le but de correspondre au maximum aux critères mis en place par les moteurs de recherche. On parle alors de référencement et de positionnement.
+                    
+                    </p>
+                    
+                </div>
+                
+                 <div class="infos">
+                        
+                   <h2>Pourquoi faire?</h2>
+                     
+                     <p>
+                        Un bon référecement (sur google par exemple) permet d'acquérir une visibilité importante et de grossir son flux de visiteur. Ainsi, c'est un moyen efficace pour développer votre activité et votre renommé.
+                     </p>
+                    
+                </div>
+                
+                 <div class="infos">
+                        
+                   <h2>Mes solutions</h2>
+                     
+                     <p>
+                     
+                     </p>
+                    
+                </div>
+                    
+                   
+            
+            
+            
+            </div>
+            
+        </div>
+        
+        
+        </div>
+    
 	<footer>
 		<?php 
 			//require 'footer.php';

@@ -4,8 +4,12 @@
 .topMargin {
   margin-top: 2%; }
 
-.fa-facebook-square {
-  font-size: 4em; }
+header .socialIcon {
+  color: grey;
+  font-size: 4em;
+  margin-top: 70%; }
+header .socialIcon:hover {
+  color: darkgrey; }
 
 .navigationTitle {
   margin: 1% 0%; }

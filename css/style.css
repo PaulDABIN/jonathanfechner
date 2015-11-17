@@ -11,6 +11,10 @@ header .socialIcon {
 header .socialIcon:hover {
   color: darkgrey; }
 
+footer {
+  background-color: #444b4f;
+  color: white; }
+
 .navigationTitle {
   margin: 1% 0%; }
 
